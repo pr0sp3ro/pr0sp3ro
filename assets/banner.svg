@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal banner</title>
+  <desc id="desc">A warm orange terminal prompt and cursor on a dark background.</desc>
+  <rect width="1200" height="180" rx="12" fill="#101010"/>
+  <path d="M52 73 72 90 52 107" fill="none" stroke="#ffc799" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="88" y="103" width="24" height="4" rx="2" fill="#ffc799"/>
+  <path d="M160 90H1148" stroke="#262626" stroke-width="1"/>
+</svg>
