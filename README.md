@@ -1,12 +1,5 @@
 ![Terminal banner](assets/banner.svg)
 
-# Hi
+# Software Engineer | Security Researcher
 
-Software engineer / security researcher.
 Simple solutions, readable code, and the Unix philosophy.
-
-```text
-build -> break -> understand -> simplify
-  ^                                |
-  +--------------------------------+
-```
